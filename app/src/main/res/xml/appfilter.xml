@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Sony Dynamic Clock -->
+    <dynamic-clock drawable="sony_clock"
+        hourLayerIndex="0"
+        minuteLayerIndex="1"
+        secondLayerIndex="2"
+        defaultHour="10"
+        defaultMinute="10"
+        defaultSecond="30" />
+
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="sony_clock" />
+
+    <!-- Global -->
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" drawable="sony_calendar" />
+    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="sony_calculator" />
+    <item component="ComponentInfo{com.android.camera/com.android.camera.Camera}" drawable="sony_camera"/>
+    <item component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}" drawable="sony_camera"/>
+    <item component="ComponentInfo{com.android.camera2/com.android.camera.CameraLauncher}" drawable="sony_camera"/>
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="sony_clock" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="sony_contacts" />
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="sony_dialer" />
+    <item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="sony_dialer" />
+    <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="sony_files" />
+    <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadList}" drawable="sony_downloads" />
+    <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="sony_mail" />
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.Gallery}" drawable="sony_album" />
+    <item component="ComponentInfo{com.android.gallery3d/com.android.gallery3d.app.GalleryActivity}" drawable="sony_album" />
+    <item component="ComponentInfo{com.android.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="sony_messages" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}" drawable="sony_messages" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.BootActivity}" drawable="sony_messages" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="sony_settings" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkMain}" drawable="sony_stk" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivity}" drawable="sony_stk" />
+    <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherListActivity}" drawable="sony_stk" />
+    <item component="ComponentInfo{com.android.fmradio/com.android.fmradio.FmMainActivity}" drawable="sony_radio" />
+    <item component="ComponentInfo{com.android.soundrecorder/com.android.soundrecorder.SoundRecorder}" drawable="sony_sound_recorder" />
+
+    <!-- Google -->
+    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="sony_clock" />
+    <item component="ComponentInfo{com.android.chrome/com.google.android.apps.chrome.Main}" drawable="sony_browser" />
+    <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="sony_camera" />
+    <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="sony_calendar" />
+    <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.google.android.calculator/com.android.calculator2.Calculator}" drawable="sony_calculator" />
+    <item component="ComponentInfo{com.google.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="sony_contacts" />
+    <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="sony_dialer" />
+    <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="sony_messages" />
+
+    <!-- Asus -->
+    <item component="ComponentInfo{com.asus.browser/com.android.browser.BrowserActivity}" drawable="sony_browser" />
+    <item component="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" drawable="sony_calendar" />
+    <calendar component="ComponentInfo{com.asus.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.asus.calculator/com.asus.calculator.Calculator}" drawable="sony_calculator" />
+    <item component="ComponentInfo{com.asus.camera/com.asus.camera.CameraApp}" drawable="sony_camera" />
+    <item component="ComponentInfo{com.asus.deskclock/com.asus.deskclock.DeskClock}" drawable="sony_clock" />
+    <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.PeopleActivity}" drawable="sony_contacts" />
+    <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="sony_dialer" />
+    <item component="ComponentInfo{com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity}" drawable="sony_files" />
+    <item component="ComponentInfo{com.asus.gallery/com.asus.gallery.app.EPhotoActivity}" drawable="sony_album" />
+    <item component="ComponentInfo{com.asus.email/com.android.email.activity.Welcome}" drawable="sony_mail" />
+    <item component="ComponentInfo{com.asus.message/com.android.mms.ui.ConversationList}" drawable="sony_messages" />
+    <item component="ComponentInfo{com.asus.quickmemo/com.asus.quickmemo.activities.edit.MemoEditActivity}" drawable="sony_notes" />
+    <item component="ComponentInfo{com.asus.music/com.asus.music.MusicMainActivity}" drawable="sony_music" />
+    <item component="ComponentInfo{com.asus.fmradio/com.asus.fmradio.FMRadioUIv3}" drawable="sony_radio" />
+    <item component="ComponentInfo{com.asus.fmradio/com.asus.fmradio.FMRadioUIv2}" drawable="sony_radio" />
+    <item component="ComponentInfo{com.asus.soundrecorder/com.asus.soundrecorder.AsusRecorder}" drawable="sony_sound_recorder" />
+    <item component="ComponentInfo{com.asus.microfilm/com.asus.microfilm.tab.TabMainActivity}" drawable="sony_movie_creator" />
+    <item component="ComponentInfo{com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings}" drawable="sony_weather" />
+    <item component="ComponentInfo{com.asus.themeapp/com.asus.themeapp.ThemeAppActivity}" drawable="sony_themes" />
+
+    <!-- Essential -->
+    <item component="ComponentInfo{com.essential.klik/com.essential.klik.Camera}" drawable="sony_camera" />
+
+    <!-- Mediatek -->
+    <item component="ComponentInfo{com.mediatek.camera/com.android.camera.CameraLauncher}" drawable="sony_camera" />
+    <item component="ComponentInfo{com.mediatek.filemanager/com.mediatek.filemanager.FileManagerOperationActivity}" drawable="sony_files" />
+    <item component="ComponentInfo{com.mediatek.FMRadio/com.mediatek.FMRadio.FMRadioActivity}" drawable="sony_radio" />
+    <item component="ComponentInfo{com.mediatek.StkSelection/com.mediatek.StkSelection.StkSelection}" drawable="sony_stk" />
+
+    <!-- HTC -->
+    <item component="ComponentInfo{com.htc.sense.browser/com.htc.sense.browser.BrowserActivity}" drawable="sony_browser" />
+    <item component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" drawable="sony_calendar" />
+    <calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}" drawable="sony_camera"/>
+    <item component="ComponentInfo{com.htc.camera/com.htc.camera.CameraEntry}" drawable="sony_camera" />
+    <item component="ComponentInfo{com.htc.android.worldclock/com.htc.android.worldclock.WorldClockTabControl}" drawable="sony_clock" />
+    <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="sony_contacts" />
+    <item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="sony_dialer" />
+    <item component="ComponentInfo{com.htc.filemanager/com.htc.filemanager.FileManagerActivity}" drawable="sony_files" />
+    <item component="ComponentInfo{com.htc.album/com.htc.album.AlbumMain.ActivityMainTabHost}" drawable="sony_album" />
+    <item component="ComponentInfo{com.htc.album/com.htc.photoenhancer.LandingPage}" drawable="sony_album" />
+    <item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MultipleActivitiesMain}" drawable="sony_mail" />
+    <item component="ComponentInfo{com.htc.android.mail/com.htc.android.mail.MailListTab}" drawable="sony_mail" />
+    <item component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}" drawable="sony_messages" />
+    <item component="ComponentInfo{com.htc.lucy/com.htc.lucy.editor.LandingActivity}" drawable="sony_notes" />
+    <item component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}" drawable="sony_music" />
+    <item component="ComponentInfo{com.htc.fm/com.htc.fm.ap.activity.FMRadioMain}" drawable="sony_radio" />
+    <item component="ComponentInfo{com.htc.soundrecorder/com.htc.soundrecorder.SoundRecorderBG}" drawable="sony_sound_recorder" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.framework.activity.HtcSettings}" drawable="sony_settings" />
+    <item component="ComponentInfo{com.htc.Weather/com.htc.Weather.WeatherEntry}" drawable="sony_weather" />
+    <item component="ComponentInfo{com.htc.Weather/com.htc.Weather.WeatherEntryAlias}" drawable="sony_weather"/>
+
+    <!-- Huawei -->
+    <item component="ComponentInfo{com.huawei.camera/com.huawei.camera}" drawable="sony_camera"/>
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="sony_clock" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="sony_dialer" />
+    <item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.filemanager.FileManager}" drawable="sony_files" />
+    <item component="ComponentInfo{com.android.gallery3d/com.huawei.gallery.app.GalleryMain}" drawable="sony_album" />
+    <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}" drawable="sony_notes" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.HWSettings}" drawable="sony_settings" />
+    <item component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity}" drawable="sony_radio"/>
+    <item component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.android.FMRadio.FmRadioActivity}" drawable="sony_radio"/>
+    <item component="ComponentInfo{com.android.mediacenter/com.android.mediacenter.PageActivity}" drawable="music3"/>
+    <item component="ComponentInfo{com.example.android.notepad/com.example.android.notepad.NotePadActivity}" drawable="sony_notes"/>
+    <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.HwThemeManagerActivity}" drawable="sony_themes"/>
+    <item component="ComponentInfo{com.huawei.hwvplayer/com.huawei.hwvplayer.framework.MainActivity}" drawable="sony_video"/>
+    <item component="ComponentInfo{com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome}" drawable="sony_weather"/>
+
+    <!-- LG -->
+    <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" drawable="sony_camera"/>
+    <item component="ComponentInfo{com.lge.clock/com.lge.clock.AlarmClockActivity}" drawable="sony_clock" />
+    <item component="ComponentInfo{com.lge.filemanager/com.lge.filemanager.view.LaunchActivity}" drawable="sony_files" />
+    <item component="ComponentInfo{com.lge.email/com.lge.email.ui.setupwizard.Welcome}" drawable="sony_mail" />
+    <item component="ComponentInfo{com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity}" drawable="sony_" />
+    <item component="ComponentInfo{com.lge.music/com.lge.music.MusicBrowserActivity}" drawable="sony_music" />
+    <item component="ComponentInfo{com.lge.fmradio/com.lge.fmradio.IntroActivity}" drawable="sony_radio" />
+    <item component="ComponentInfo{com.lge.voicerecorder/com.lge.voicerecorder.VoiceRecorder}" drawable="sony_sound_recorder" />
+    <item component="ComponentInfo{com.lge.lifetracker/com.lge.lifetracker.ui.MainActivity}" drawable="sony_lifelog" />
+    <item component="ComponentInfo{com.lge.voicerecorder/com.lge.voicerecorder.LaunchVoiceRecorder}" drawable="sony_sound_recorder"/>
+    <item component="ComponentInfo{com.lge.hifirecorder/com.lge.hifirecorder.LaunchHifiRecorder}" drawable="sony_sound_recorder"/>
+    <item component="ComponentInfo{com.LgG4.camera/com.geak.camera.MainActivity}" drawable="sony_camera" />
+
+    <!-- Lenovo -->
+    <item component="ComponentInfo{com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher}" drawable="sony_camera"/>
+    <item component="ComponentInfo{com.thundersoft.ucam/com.android.camera.CameraLauncher}" drawable="sony_camera" />
+    <item component="ComponentInfo{com.lenovo.deskclock/com.lenovo.deskclock.DeskClock}" drawable="sony_clock" />
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.PeopleActivity}" drawable="sony_contacts" />
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.DialtactsActivity}" drawable="sony_dialer" />
+    <item component="ComponentInfo{com.lenovo.FileBrowser/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="sony_files" />
+    <item component="ComponentInfo{com.lenovo.gallery/com.lenovo.gallery.app.GalleryActivity}" drawable="sony_album" />
+    <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.MmsActivity}" drawable="sony_messages" />
+    <item component="ComponentInfo{com.lenovo.music/com.lenovo.music.ui.LeAppLoadingActivity}" drawable="sony_music" />
+    <item component="ComponentInfo{com.lenovo.fm/com.lenovo.fm.LenovoMainActivity}" drawable="sony_radio" />
+    <item component="ComponentInfo{com.lenovo.recorder/com.lenovo.recorder.SoundRecorder}" drawable="sony_sound_recorder" />
+    <item component="ComponentInfo{com.lenovo.themecenter/com.lenovo.themecenter.LoadingActivity}" drawable="sony_themes" />
+
+
+    <!-- Motorola -->
+    <item component="ComponentInfo{com.motorola.camera/com.motorola.camera.Camera}" drawable="sony_camera" />
+    <item component="ComponentInfo{com.motorola.cameraone/com.motorola.camera.Camera}" drawable="sony_camera" />
+    <item component="ComponentInfo{com.motorola.camera1/com.motorola.camera.Camera}" drawable="sony_camera" />
+    <item component="ComponentInfo{com.motorola.camera2/com.motorola.camera.Camera}" drawable="sony_camera" />
+    <item component="ComponentInfo{com.lenovo.FileBrowser2/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="sony_files" />
+    <item component="ComponentInfo{com.motorola.MotGallery2/com.android.gallery3d.app.GalleryActivity}" drawable="sony_album" />
+    <item component="ComponentInfo{com.motorola.messaging/com.android.messaging.ui.conversationlist.ConversationListActivity}" drawable="sony_messages" />
+    <item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity}" drawable="sony_radio" />
+    <item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.FMMainActivity}" drawable="sony_radio"/>
+    <item component="ComponentInfo{com.motorola.email/com.android.email.activity.ComposeActivityEmail}" drawable="sony_mail" />
+
+    <!-- Nextbit -->
+    <item component="ComponentInfo{com.nextbit.camera/com.nextbit.camera.ui.CameraActivity}" drawable="sony_camera" />
+    <item component="ComponentInfo{com.nextbit.gallery/com.nextbit.gallery.main.MainActivity}" drawable="sony_album" />
+
+    <!-- OnePlus -->
+    <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="sony_calendar" />
+    <calendar component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.oneplus.calculator/com.oneplus.calculator.Calculator}" drawable="sony_calculator" />
+    <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.OPCameraActivity}" drawable="sony_camera"/>
+    <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="sony_clock" />
+    <item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="sony_contacts" />
+    <item component="ComponentInfo{com.android.dialer/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="sony_dialer" />
+    <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="sony_files" />
+    <item component="ComponentInfo{com.oneplus.gallery/com.oneplus.gallery.OPGalleryActivity}" drawable="sony_album" />
+    <item component="ComponentInfo{com.oneplus.note/com.oneplus.note.ui.MainActivity}" drawable="sony_notes" />
+    <item component="ComponentInfo{net.oneplus.music/net.oneplus.music.activity.MainActivity}" drawable="sony_music" />
+    <item component="ComponentInfo{com.oneplus.soundrecorder/com.oneplus.soundrecorder.SoundRecorder}" drawable="sony_sound_recorder" />
+
+    <!-- Oppo -->
+    <item component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" drawable="sony_camera" />
+    <item component="ComponentInfo{com.oppo.alarmclock/com.oppo.alarmclock.AlarmClock}" drawable="sony_clock" />
+    <item component="ComponentInfo{com.android.email/com.kingsoft.email.activity.Welcome}" drawable="sony_mail" />
+    <item component="ComponentInfo{com.oppo.filemanager/com.oppo.filemanager.Main}" drawable="sony_files" />
+    <item component="ComponentInfo{com.oppo.gallery3d/com.oppo.gallery3d.app.Gallery}" drawable="sony_album" />
+    <item component="ComponentInfo{com.android.settings/com.oppo.settings.SettingsActivity}" drawable="sony_settings" />
+    <item component="ComponentInfo{com.android.providers.downloads/com.android.providers.downloads.ui.DownloadList}" drawable="sony_downloads" />
+    <item component="ComponentInfo{com.oppo.music/com.oppo.music.MainListActivity}" drawable="sony_music" />
+    <item component="ComponentInfo{com.nearme.themespace/com.nearme.themespace.activities.ThemeActivity}" drawable="sony_themes" />
+
+    <!-- Samsung -->
+    <item component="ComponentInfo{com.sec.android.app.sbrowser.beta/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="sony_browser" />
+    <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="sony_browser" />
+    <item component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" drawable="sony_calendar" />
+    <calendar component="ComponentInfo{com.samsung.android.calendar/com.android.calendar.AllInOneActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.calculator.Calculator}" drawable="sony_calculator" />
+    <item component="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator}" drawable="sony_calculator" />
+    <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="sony_calculator" />
+    <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="sony_camera"/>
+    <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="sony_clock" />
+    <item component="ComponentInfo{com.samsung.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="sony_contacts" />
+    <item component="ComponentInfo{com.samsung.android.contacts/com.android.dialer.DialtactsActivity}" drawable="sony_dialer" />
+    <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}" drawable="sony_files" />
+    <item component="ComponentInfo{com.sec.android.gallery3d/com.sec.android.gallery3d.app.GalleryOpaqueActivity}" drawable="sony_album" />
+    <item component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}" drawable="sony_mail" />
+    <item component="ComponentInfo{com.samsung.android.messaging/com.android.mms.ui.ConversationComposer}" drawable="sony_messages" />
+    <item component="ComponentInfo{com.samsung.android.app.notes/com.samsung.android.app.notes.memolist.MemoListActivity}" drawable="sony_notes" />
+    <item component="ComponentInfo{com.sec.android.app.music/com.sec.android.app.music.common.activity.MusicMainActivity}" drawable="sony_music" />
+    <item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="sony_radio" />
+    <item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="sony_sound_recorder" />
+    <item component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}" drawable="sony_video" />
+    <item component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}" drawable="sony_lifelog" />
+    <item component="ComponentInfo{com.samsung.android.themestore/com.samsung.android.themestore.activity.Launcher}" drawable="sony_themes" />
+    <item component="ComponentInfo{com.samsung.android.snote/com.samsung.android.snote.control.ui.filemanager.MainHomeActivity}" drawable="sony_notes" />
+
+    <!-- Sony -->
+    <item component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" drawable="sony_calendar" />
+    <calendar component="ComponentInfo{com.sonymobile.calendar/com.sonymobile.calendar.LaunchActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}" drawable="sony_camera"/>
+    <item component="ComponentInfo{com.sonyericsson.organizer/com.sonyericsson.organizer.Organizer}" drawable="sony_clock" />
+    <item component="ComponentInfo{com.sonymobile.android.contacts/com.android.contacts.activities.PeopleActivity}" drawable="sony_contacts" />
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.DialtactsActivity}" drawable="sony_dialer" />
+    <item component="ComponentInfo{com.sonymobile.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="sony_dialer" />
+    <item component="ComponentInfo{com.sonyericsson.album/com.sonyericsson.album.MainActivity}" drawable="sony_album" />
+    <item component="ComponentInfo{com.sonymobile.email/com.sonymobile.email.activity.Welcome}" drawable="sony_mail" />
+    <item component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}" drawable="sony_messages" />
+    <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}" drawable="sony_music" />
+    <item component="ComponentInfo{com.sonymobile.androidapp.audiorecorder/com.sonymobile.androidapp.audiorecorder.activity.MainActivity}" drawable="sony_sound_recorder" />
+    <item component="ComponentInfo{com.sonyericsson.video/com.sonyericsson.video.placeholderwrapper.MainActivity}" drawable="sony_video" />
+    <item component="ComponentInfo{com.sonymobile.lifelog/com.sonymobile.lifelog.login.StartActivity}" drawable="sony_lifelog" />
+    <item component="ComponentInfo{com.sonymobile.moviecreator.rmm/com.sonymobile.moviecreator.rmm.LaunchActivity}" drawable="sony_movie_creator" />
+    <item component="ComponentInfo{com.sonymobile.xperiaweather/com.sonymobile.xperiaweather.MainActivity}" drawable="sony_weather" />
+    <item component="ComponentInfo{com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.SkinPickerActivity}" drawable="sony_themes" />
+    <item component="ComponentInfo{com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.PackagePickerActivity}" drawable="sony_themes" />
+    <item component="ComponentInfo{com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.ApplySkinActivity}" drawable="sony_themes" />
+    <item component="ComponentInfo{com.sonymobile.runtimeskinning.picker/com.sonymobile.runtimeskinning.picker.AutoApplySkinActivity}" drawable="sony_themes" />
+
+    <!-- Xiaomi -->
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="sony_browser" />
+    <item component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" drawable="sony_calendar" />
+    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="logo_calendar_" />
+    <item component="ComponentInfo{com.miui.calculator/com.miui.calculator.cal.CalculatorActivity}" drawable="sony_calculator" />
+    <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="sony_clock" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.TwelveKeyDialer}" drawable="sony_dialer" />
+    <item component="ComponentInfo{com.android.contacts/com.android.contacts.TwelveKeyDialer}" drawable="sony_dialer" />
+    <item component="ComponentInfo{com.android.fileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="sony_files" />
+    <item component="ComponentInfo{com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="sony_files" />
+    <item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="sony_album" />
+    <item component="ComponentInfo{com.android.mms/com.android.mms.ui.MmsTabActivity}" drawable="sony_messages" />
+    <item component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}" drawable="sony_notes" />
+    <item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="sony_music" />
+    <item component="ComponentInfo{com.miui.fm/com.miui.fmradio.FmActivity}" drawable="sony_radio" />
+    <item component="ComponentInfo{com.miui.videoplayer/com.miui.video.global.app.LauncherActivity}" drawable="sony_video" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.MainSettings}" drawable="sony_settings" />
+    <item component="ComponentInfo{com.miui.weather2/com.miui.weather2.ActivityWeatherMain}" drawable="sony_weather" />
+    <item component="ComponentInfo{com.android.thememanager/com.android.thememanager.ThemeResourceTabActivity}" drawable="sony_themes" />
+
+    <!-- LineageOS -->
+    <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="sony_browser" />
+    <item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="sony_sound_recorder" />
+    <item component="ComponentInfo{org.lineageos.snap/com.android.camera.CameraLauncher}" drawable="sony_camera" />
+
+    <!-- CyanogenMod -->
+    <item component="ComponentInfo{org.cyanogenmod.gello.browser/com.android.browser.BrowserLauncher}" drawable="sony_browser" />
+    <item component="ComponentInfo{org.cyanogenmod.snap/com.android.camera.CameraLauncher}" drawable="sony_camera" />
+    <item component="ComponentInfo{com.cyanogenmod.filemanager/com.cyanogenmod.filemanager.activities.NavigationActivity}" drawable="sony_files" />
+    <item component="ComponentInfo{com.cyanogenmod.eleven/com.cyanogenmod.eleven.ui.activities.HomeActivity}" drawable="sony_music" />
+    <item component="ComponentInfo{org.cyanogenmod.theme.chooser2/org.cyanogenmod.theme.chooser2.ChooserLauncher}" drawable="sony_themes" />
+    <item component="ComponentInfo{org.cyanogenmod.theme.chooser/org.cyanogenmod.theme.chooser.ChooserActivity}" drawable="sony_themes"/>
+
+    <!-- CAF -->
+    <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="sony_camera" />
+    <item component="ComponentInfo{org.codeaurora.gallery/com.android.gallery3d.app.GalleryActivity}" drawable="sony_album" />
+
+
+</resources>

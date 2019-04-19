@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <category title="Sony" />
+    <item drawable="sony_album" />
+    <item drawable="sony_browser" />
+    <item drawable="sony_calculator" />
+    <item drawable="sony_calendar" />
+    <item drawable="sony_camera" />
+    <item drawable="sony_clock" />
+    <item drawable="sony_contacts" />
+    <item drawable="sony_dialer" />
+    <item drawable="sony_downloads" />
+    <item drawable="sony_lifelog" />
+    <item drawable="sony_mail" />
+    <item drawable="sony_messages" />
+    <item drawable="sony_movie_creator" />
+    <item drawable="sony_music" />
+    <item drawable="sony_notes" />
+    <item drawable="sony_radio" />
+    <item drawable="sony_settings" />
+    <item drawable="sony_sketch" />
+    <item drawable="sony_sound_recorder" />
+    <item drawable="sony_stk" />
+    <item drawable="sony_themes" />
+    <item drawable="sony_video" />
+    <item drawable="sony_weather" />
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sony_browser_background">#1D97F2</color>
+    <color name="sony_camera_background">#F5F5F5</color>
+    <color name="sony_contacts_background">#F2F2F2</color>
+    <color name="sony_dialer_background">#F8F8F8</color>
+    <color name="sony_downloads_background">#F0F0F0</color>
+    <color name="sony_lifelog_background">#EDEDED</color>
+    <color name="sony_mail_background">#F9F9F9</color>
+    <color name="sony_messages_background">#4B8DF4</color>
+    <color name="sony_notes_background">#F9F9F9</color>
+    <color name="sony_radio_background">#EEEEEE</color>
+    <color name="sony_settings_background">#F5F5F5</color>
+    <color name="sony_sketch_background">#F1F1F1</color>
+    <color name="sony_sound_recorder_background">#EA4E42</color>
+    <color name="sony_stk_background">#F2F2F2</color>
+    <color name="sony_video_background">#D6403E</color>
+    <color name="sony_weather_background">#F7F7F7</color>
+    <color name="sony_themes_background">#F4F6F6</color>
+    <color name="ic_launcher_icon_pack_background">#F4F6F6</color>
+</resources>
